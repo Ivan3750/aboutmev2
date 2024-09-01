@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    box-sizing: border-box;
+    place-content: center space-between;
+    align-items: center;
+    display: flex;
+    flex-flow: row;
+    height: 90px;
+    overflow: hidden;
+    padding: 20px 40px;
+    position: relative;
+    width: 100%;
+    opacity: 1;
+    transform: none;
+    cursor: auto;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+.header__logo{
+    font-size: 24px;
+    
+}
+.btn-contact{
+    border-radius: 20px;
+    background-color: rgb(42, 162, 242);
+    border-radius: 434px;
+    padding: 15px;
+    color: #000;
+
+}

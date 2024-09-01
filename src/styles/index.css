@@ -1,0 +1,15 @@
+@import-normalize;
+@import url(https://fonts.googleapis.com/css?family=Unbounded:200,300,regular,500,600,700,800,900);
+
+
+body{
+    background: rgb(26, 26, 26);
+    background-image: url(../assets/images/background.jpg);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: "Unbounded";
+}
